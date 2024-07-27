@@ -1,0 +1,7 @@
+# dir 
+/build 
+/devel
+
+# log 
+.catkin_workspace
+.vscode
